@@ -1,2 +1,2 @@
 # web-development
-i make so meny projr=ect
+i make so meny project
